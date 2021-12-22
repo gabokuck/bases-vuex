@@ -1,4 +1,23 @@
-# bases-vuex
+# Bases de Vuex
+## En este proyecto se veran los siguientes temas:
+    
+    ¿Qué es Vuex?
+
+    ¿Qué problema resuelve Vuex?
+
+    Actions
+
+    Getters
+
+    Mutations
+
+    State
+
+    Módulos
+
+    Segmentación
+
+    Vuex DevTools
 
 ## Project setup
 ```
